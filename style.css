@@ -1,0 +1,29 @@
+.fs-0{
+    font-size: 4rem;
+}
+.fs-7{
+    font-size: 0.8rem;
+}
+.gray{
+    background-color:  rgb(223, 229, 229);
+}
+.bg-gray{
+    background-color: rgb(218, 226, 226);
+}
+
+.nav_btn_active i{
+    color: blue !important;
+}
+.nav_btn button:hover{
+    background-color:  rgb(237, 244, 245);
+}
+.nav_btn button:hover i{
+   color:  blue !important;
+}
+.scrollbar:hover{
+    overflow: auto !important;
+}
+/*---stories----*/
+.story:hover{
+    opacity: 0.8;
+}
